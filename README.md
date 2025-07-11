@@ -1,4 +1,4 @@
-﻿# Serverless-Server-Scaling-Design-
+﻿# Serverless-Server-Scaling-Design Part 2
 <p align="center">
 <img src="https://i.imgur.com/Gp1wnwU.png">
 </p>
