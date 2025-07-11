@@ -3,10 +3,10 @@
 <img src="https://i.imgur.com/Gp1wnwU.png">
 </p>
 
-In a serverless architecture, scaling is fully managed by the cloud provider (AWS). AWS Lambda automatically increase or decrease the number of concurrent executions in response to traffic spikes or drops, no manual intervention is required.
+In a serverless architecture, scaling is fully managed by the cloud provider (AWS). AWS Lambda automatically increases or decreases the number of concurrent executions in response to traffic spikes or drops; no manual intervention is required.
 
 Key Benefits:
-- Auto-scaling is built-in (no need for Auto Scaling Groups or instance provisiong)
+- Auto-scaling is built-in (no need for Auto Scaling Groups or instance provisioning)
 - Infrastructure is abstracted; developers focus on code, not server health
 
 <h2> Traditional vs Serverless</h2> 
@@ -31,7 +31,7 @@ Serverless Scaling
 
 - Cost: Pay per execution (no idle cost)
 
-- Management Overhead: Low - infrastructure is managed by provider (AWS)
+- Management Overhead: Low - infrastructure is managed by the provider (AWS)
 
 - Scalability Limits: Virtually unlimited (soft concurrency limits can be raised)
 
